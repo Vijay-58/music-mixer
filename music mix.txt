@@ -32,4 +32,4 @@ alt="Shuffler Demo" width="240" height="180" border="10" /></a>
    <div class="column">
       <img src="/screenshots/Screenshot_2018-05-20-15-04-15-523_com.example.vijaybind.mix.png" width="250" title="Search Results">
    </div>
-</
+</div class="row"
